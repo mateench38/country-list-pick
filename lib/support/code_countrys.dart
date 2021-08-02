@@ -1174,6 +1174,27 @@ List<Map<String, String>> codes = [
     "code": "GB",
     "dial_code": "+44",
   },
+
+  {
+    "name": "England",
+    "code": "GB-ENG",
+    "dial_code": "+44",
+  },
+  {
+    "name": "Scotland",
+    "code": "GB-SCT",
+    "dial_code": "+44",
+  },
+  {
+    "name": "Wales",
+    "code": "GB-WLS",
+    "dial_code": "+44",
+  },
+  {
+    "name": "Northern Ireland",
+    "code": "GB-NIR",
+    "dial_code": "+44",
+  },
   {
     "name": "United States",
     "code": "US",
