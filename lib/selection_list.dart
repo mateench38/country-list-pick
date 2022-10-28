@@ -92,7 +92,7 @@ class _SelectionListState extends State<SelectionList> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Padding(
+                        Container(
                           padding: const EdgeInsets.all(15.0),
                           child: Text(
                             widget.theme?.searchText ?? 'SEARCH',
